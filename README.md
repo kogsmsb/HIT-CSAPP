@@ -1,2 +1,2 @@
-# HIT-CSAPP
+# HITCSAPP
 An article for schoolwork
